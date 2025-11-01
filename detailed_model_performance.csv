@@ -1,0 +1,13 @@
+Reduction Method,Model,Accuracy,F1 Score
+Original,Logistic Regression,0.9452,0.9451
+Original,SVM,0.9846,0.9846
+Original,KNN,0.9868,0.9868
+Original,Decision Tree,0.9671,0.9672
+PCA,Logistic Regression,0.9342,0.9340
+PCA,SVM,0.9803,0.9802
+PCA,KNN,0.9846,0.9846
+PCA,Decision Tree,0.9868,0.9868
+Autoencoder,Logistic Regression,0.9342,0.9340
+Autoencoder,SVM,0.9759,0.9758
+Autoencoder,KNN,0.9846,0.9847
+Autoencoder,Decision Tree,0.9715,0.9714

@@ -1,0 +1,18 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+shap
+
+# Deep Learning
+tensorflow
+
+# Web App
+streamlit
